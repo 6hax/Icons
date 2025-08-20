@@ -1,4 +1,4 @@
-# NestIcons 🎨
+# Icons 🎨
 
 Uma coleção utilitária de ícones organizados e categorizados para uso em projetos web, aplicações e interfaces.
 
@@ -73,4 +73,5 @@ Este projeto está disponível para uso livre em projetos pessoais e comerciais.
 ---
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
+
 
