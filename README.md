@@ -51,8 +51,7 @@ O projeto está organizado em duas categorias principais:
 2. **Clone** para sua máquina local
 3. **Adicione seus ícones** seguindo a estrutura existente
 4. **Commit** suas mudanças: `git commit -m 'Adiciona novos ícones para [categoria]'`
-5. **Push** para a branch: `git push origin nova-feature`
-6. **Abra um Pull Request** com uma descrição clara das mudanças
+5. **Abra um Pull Request** com uma descrição clara das mudanças
 
 ### Diretrizes para Contribuições
 
@@ -73,6 +72,7 @@ Este projeto está disponível para uso livre em projetos pessoais e comerciais.
 ---
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
+
 
 
 
