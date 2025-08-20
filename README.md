@@ -7,12 +7,12 @@ Uma coleção utilitária de ícones organizados e categorizados para uso em pro
 O projeto está organizado em duas categorias principais:
 
 ### 🖼️ Ícones Estáticos (`/static`)
-Ícones PNG organizados por categorias funcionais:
+Ícones PNG organizados por categorias funcionais
 
 
 
 ### 🎬 Ícones Animados (`/animated`)
-Ícones GIF para interfaces interativas:
+Ícones GIF para interfaces interativas
 
 
 
@@ -73,6 +73,7 @@ Este projeto está disponível para uso livre em projetos pessoais e comerciais.
 ---
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
+
 
 
 
